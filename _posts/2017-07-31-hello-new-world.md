@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello New World"
+description: "A quick introduction to my blog"
 date:   2017-07-31 19:37:18 +0800
 categories: announcements
 ---
