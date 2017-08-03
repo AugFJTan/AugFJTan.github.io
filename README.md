@@ -1,3 +1,3 @@
 # AugFJTan.github.io
 
-A repo hosting the source for personal programming blog. Powered by Jekyll.
+A repo hosting the source for my personal programming blog. Powered by Jekyll.
