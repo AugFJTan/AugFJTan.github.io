@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Linus Torvalds Quote](img/index/linusquote.png)
+
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
