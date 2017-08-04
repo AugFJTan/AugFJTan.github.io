@@ -15,6 +15,11 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-github-comments
 exclude:
   - Gemfile
   - Gemfile.lock
+github_comments:
+  repo: "AugFJTan/AugFJTan.github.io"
+  comment_template: comment.html
+  comments_template: comments.html
