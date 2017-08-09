@@ -3,7 +3,7 @@ layout: post
 title:  "We Sprung a Leak, Captain!"
 description: "An article about a memory leak incident I had when programming in C"
 date:   2017-08-08 20:02:00 +0800
-categories: c-programming memory-leak
+categories: cprogramming
 ---
 
 *A streak of lightning flashed across the ominous sky, followed shortly by the ear-splitting boom of thunder. The ship rocked violently against the giant waves, her crew and passengers bracing themselves for dear life. The captian stood in the icy rain, hollering orders to the sailers on deck. He had grown hoarse from raising his voice, but he couldn't rest now: too many lives were at stake. Twice he almost slipped on the wet floorboards, and he had a feeling he'd loose his footing on the third or fourth slip. A sailor exclaimed something he couldn't quite hear. The sailor yelled again, but this time he heard it loud and clear: "We sprung a leak, Captain!"*
