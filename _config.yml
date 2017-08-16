@@ -18,3 +18,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+permalink: /:categories/:title/

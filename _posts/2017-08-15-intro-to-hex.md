@@ -3,7 +3,7 @@ layout: post
 title:  "An Introduction to Hexadecimals"
 description: "An article explaining the basics of hexadecimals"
 date:   2017-08-15 19:53:00 +0800
-categories: lowlevel
+categories: comp-sci-concepts
 ---
 
 Hexadecimals are an important concept in computing, especially in low-level programs. Essentially, hexidecimal (or hex) is a numerical system of base 16, whereby the numbers 0 to 9 are represented as usual but the numbers 10, 11, 12, 13, 14 and 15 are represented by a, b, c, d, e and f respectively. In most programming languages, the prefix for hex numbers is denoted by '0x'. For example, the number 255 is `0xff` in hex. While it may not be immediately apparent how hex numbers work, we need to go to the register-level to understand their application.
