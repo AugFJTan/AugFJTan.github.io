@@ -71,7 +71,7 @@ Let's say we wanted to save an online copy of our code or maybe even collaborate
 The remote repository should be left empty. To upload the code from your computer to this remote repository, we will need to upload it to its URL. Back on the command line, we will create an alias for the URL (usually named `origin`):
 
 ```
-git remote add origin https://your-username/my-first-repository.git
+git remote add origin https://github.com/your-username/my-first-repository.git
 ```
 
 As a rule of thumb, the URL used is the URL of the GitHub repository followed by `.git`. Now let's attempt to `push` (upload) our changes to the repository:
